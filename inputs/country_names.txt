@@ -1,0 +1,30 @@
+'Argentina'	'ARG'	1
+'Australia'	'AUS'	2
+'Austria'	'AUT'	3
+'Belgium'	'BEL'	4
+'Brazil'	'BRA'	5
+'Canada'	'CAN'	6
+'China'	'CHN'	7
+'Czech Republic'	'CZE'	8
+'Finland'	'FIN'	9
+'France'	'FRA'	10
+'Germany'	'DEU'	11
+'Greece'	'GRC'	12
+'India'	'IND'	13
+'Indonesia'	'IDN'	14
+'Italy'	'ITA'	15
+'Japan'	'JPN'	16
+'Korea, Rep.'	'KOR'	17
+'Malaysia'	'MYS'	18
+'Mexico'	'MEX'	19
+'Poland'	'POL'	20
+'Portugal'	'PRT'	21
+'Russian Federation'	'RUS'	22
+'South Africa'	'ZAF'	23
+'Spain'	'ESP'	24
+'Sweden'	'SWE'	25
+'Switzerland'	'CHE'	26
+'Thailand'	'THA'	27
+'Turkey'	'TUR'	28
+'United Kingdom'	'GBR'	29
+'United States'	'USA'	30
